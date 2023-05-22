@@ -19,7 +19,7 @@
   $contact->ajax = true;
   
   $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
+  $contact->from_name = $_POST['namehttps://github.com/Shams66789/project.git'];
   $contact->from_email = $_POST['email'];
   $contact->subject = $_POST['subject'];
 
