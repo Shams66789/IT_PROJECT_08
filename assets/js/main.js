@@ -133,3 +133,7 @@
   new PureCounter();
 
 })()
+
+function openNotice(noticeUrl) {
+  window.open('path/to/notices/' + noticeUrl);
+}
