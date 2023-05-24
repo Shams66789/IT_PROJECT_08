@@ -1441,15 +1441,8 @@ section {
 # Clubs
 --------------------------------------------------------------*/
 
-/* .container-fullscreen {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 .table-container {
-  max-width: 600px;
-  width: 100%;
+  display: contents;
 }
 table {
   width: 100%;
@@ -1458,7 +1451,7 @@ table {
 th, td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #5fcf80;
 }
 th {
   background-color: #f2f2f2;
@@ -1467,7 +1460,7 @@ th {
   text-decoration: underline;
   color: blue;
   cursor: pointer;
-} */
+}
 
 /*--------------------------------------------------------------
 # Footer
